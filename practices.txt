@@ -1,0 +1,49 @@
+Understand the Problem Statement:
+
+Read the problem statement carefully.
+Identify the input and output format.
+Understand the constraints and edge cases.
+Plan Before Coding:
+
+Think about the algorithm and data structures needed.
+Sketch out a plan or pseudocode.
+Consider time and space complexity.
+Write Clean and Efficient Code:
+
+Use meaningful variable names.
+Keep your code modular with functions.
+Avoid unnecessary computations.
+Use Fast Input/Output Methods:
+
+In languages like C++, use scanf/printf or cin/cout with ios::sync_with_stdio(false) and cin.tie(NULL).
+In Python, use sys.stdin.read for input and sys.stdout.write for output.
+Test Your Code:
+
+Test with sample inputs provided in the problem.
+Create your own test cases, including edge cases.
+Use assertions to check for invariants.
+Optimize Your Solution:
+
+Analyze the time complexity and optimize if necessary.
+Use efficient algorithms and data structures.
+Avoid nested loops if possible.
+Practice Regularly:
+
+Solve problems from various online judges like Codeforces, LeetCode, HackerRank, etc.
+Participate in contests to improve speed and accuracy.
+Review and learn from others' solutions.
+Learn and Use Standard Algorithms and Data Structures:
+
+Be familiar with sorting, searching, dynamic programming, graph algorithms, etc.
+Understand data structures like arrays, linked lists, stacks, queues, trees, and graphs.
+Debugging Skills:
+
+Use print statements to debug.
+Understand and use debugging tools available in your IDE.
+Practice finding and fixing bugs quickly.
+Stay Updated and Learn Continuously:
+
+Follow competitive programming communities and forums.
+Learn new algorithms and techniques.
+Keep up with the latest trends and updates in competitive programming.
+By following these best practices, you can improve your problem-solving skills and perform better in competitive programming contests.
